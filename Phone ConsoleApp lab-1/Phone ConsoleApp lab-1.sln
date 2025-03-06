@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phone ConsoleApp lab-1", "Phone ConsoleApp lab-1\Phone ConsoleApp lab-1.csproj", "{D88F9790-EFB7-4DA6-B8C0-4EEC5228D5DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D88F9790-EFB7-4DA6-B8C0-4EEC5228D5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88F9790-EFB7-4DA6-B8C0-4EEC5228D5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88F9790-EFB7-4DA6-B8C0-4EEC5228D5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88F9790-EFB7-4DA6-B8C0-4EEC5228D5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26958669-E0F9-41FD-A765-9DB86F5DDD0C}
+	EndGlobalSection
+EndGlobal

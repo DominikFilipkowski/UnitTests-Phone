@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{27729ACC-046E-43E6-997D-41796CFCF1AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phone console app", "Phone console app\Phone console app.csproj", "{A72CABED-DAB5-430D-8000-E7199077B102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27729ACC-046E-43E6-997D-41796CFCF1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27729ACC-046E-43E6-997D-41796CFCF1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27729ACC-046E-43E6-997D-41796CFCF1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27729ACC-046E-43E6-997D-41796CFCF1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72CABED-DAB5-430D-8000-E7199077B102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72CABED-DAB5-430D-8000-E7199077B102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72CABED-DAB5-430D-8000-E7199077B102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72CABED-DAB5-430D-8000-E7199077B102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {380838D5-0C32-4C74-9CDA-5DE2FB1B05D5}
+	EndGlobalSection
+EndGlobal
